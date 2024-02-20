@@ -1,0 +1,17 @@
+
+
+header{
+    display: flex;
+    padding: 24px 36px;
+    align-items: center;
+    justify-content: space-between;
+    .socials{
+        display: flex;
+        gap: 22px;
+    }
+
+    .header-buttons{
+        display: flex;
+        gap: 26px;
+    }
+}
